@@ -1,7 +1,7 @@
 # Skywars
 
 ## Objective
-The game designed required was a moved-based game with a GUI using JAVA. It demonstrates OOP principles just as polymorphism and the use of interfaces. The GUI was updated as the game progressed and adhered to the separation of concerns by keeping the game logic separate from the user interface. Furthermore, JUnit testing was conducted ensuring code reliability and performance. Additonal advanced features included saving and loading game progress, implementing a design pattern such as the Observer pattern, and allowing the game's master ship to toggle between offensive and defensive modes.
+The game required was a moved-based game with a GUI using JAVA. It demonstrates OOP principles just as polymorphism and the use of interfaces. The GUI was updated as the game progressed and adhered to the separation of concerns by keeping the game logic separate from the user interface. Furthermore, JUnit testing was conducted ensuring code reliability and performance. Additonal advanced features included saving and loading game progress, implementing a design pattern such as the Observer pattern, and allowing the game's master ship to toggle between offensive and defensive modes.
 
 ### Skills Learned
 
